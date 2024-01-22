@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Janglee\\Desktop\\AutoConfirmOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20629C1F-0267-4B39-858A-59FBAB85038B}|AutoConfirmOrder\\AutoConfirmOrder.csproj|c:\\users\\janglee\\desktop\\autoconfirmorder\\autoconfirmorder\\screens\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20629C1F-0267-4B39-858A-59FBAB85038B}|AutoConfirmOrder\\AutoConfirmOrder.csproj|solutionrelative:autoconfirmorder\\screens\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20629C1F-0267-4B39-858A-59FBAB85038B}|AutoConfirmOrder\\AutoConfirmOrder.csproj|c:\\users\\janglee\\desktop\\autoconfirmorder\\autoconfirmorder\\screens\\main.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{20629C1F-0267-4B39-858A-59FBAB85038B}|AutoConfirmOrder\\AutoConfirmOrder.csproj|solutionrelative:autoconfirmorder\\screens\\main.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20629C1F-0267-4B39-858A-59FBAB85038B}|AutoConfirmOrder\\AutoConfirmOrder.csproj|c:\\users\\janglee\\desktop\\autoconfirmorder\\autoconfirmorder\\screens\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20629C1F-0267-4B39-858A-59FBAB85038B}|AutoConfirmOrder\\AutoConfirmOrder.csproj|solutionrelative:autoconfirmorder\\screens\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20629C1F-0267-4B39-858A-59FBAB85038B}|AutoConfirmOrder\\AutoConfirmOrder.csproj|c:\\users\\janglee\\desktop\\autoconfirmorder\\autoconfirmorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20629C1F-0267-4B39-858A-59FBAB85038B}|AutoConfirmOrder\\AutoConfirmOrder.csproj|solutionrelative:autoconfirmorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20629C1F-0267-4B39-858A-59FBAB85038B}|AutoConfirmOrder\\AutoConfirmOrder.csproj|c:\\users\\janglee\\desktop\\autoconfirmorder\\autoconfirmorder\\screens\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20629C1F-0267-4B39-858A-59FBAB85038B}|AutoConfirmOrder\\AutoConfirmOrder.csproj|solutionrelative:autoconfirmorder\\screens\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\AutoConfirmOrder\\AutoConfirmOrder\\Screens\\Main.cs",
+              "RelativeDocumentMoniker": "AutoConfirmOrder\\Screens\\Main.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\AutoConfirmOrder\\AutoConfirmOrder\\Screens\\Main.cs",
+              "RelativeToolTip": "AutoConfirmOrder\\Screens\\Main.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA4wBMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T16:46:04.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.resx",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\AutoConfirmOrder\\AutoConfirmOrder\\Screens\\Main.resx",
+              "RelativeDocumentMoniker": "AutoConfirmOrder\\Screens\\Main.resx",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\AutoConfirmOrder\\AutoConfirmOrder\\Screens\\Main.resx",
+              "RelativeToolTip": "AutoConfirmOrder\\Screens\\Main.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-01-20T16:45:59.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\AutoConfirmOrder\\AutoConfirmOrder\\Screens\\Main.cs",
+              "RelativeDocumentMoniker": "AutoConfirmOrder\\Screens\\Main.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\AutoConfirmOrder\\AutoConfirmOrder\\Screens\\Main.cs [Design]",
+              "RelativeToolTip": "AutoConfirmOrder\\Screens\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T17:25:29.588Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\AutoConfirmOrder\\AutoConfirmOrder\\Program.cs",
+              "RelativeDocumentMoniker": "AutoConfirmOrder\\Program.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\AutoConfirmOrder\\AutoConfirmOrder\\Program.cs",
+              "RelativeToolTip": "AutoConfirmOrder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:08:27.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\AutoConfirmOrder\\AutoConfirmOrder\\Screens\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "AutoConfirmOrder\\Screens\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\AutoConfirmOrder\\AutoConfirmOrder\\Screens\\Main.Designer.cs",
+              "RelativeToolTip": "AutoConfirmOrder\\Screens\\Main.Designer.cs",
+              "ViewState": "AQIAALYCAAAAAAAAAAAywL8CAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:04:15.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
